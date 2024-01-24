@@ -1,0 +1,4 @@
+.DS_Store
+wsl
+venv/bin/*
+venv/*
